@@ -1,0 +1,19 @@
+"schema_version": "1.2",
+  "packages": [
+		{
+			"name": "Pixline color scheme",
+			"description": "My own Textmate/SublimeText color scheme",
+			"author": "pixline",
+			"homepage": "https://github.com/pixline/textmate-color-schemes",
+			"last_modified": "2013-07-16 07:07:07",
+			"platforms": {
+				"*": [
+					{
+						"version": "1.1.0",
+						"url": "https://nodeload.github.com/pixline/textmate-color-schemes/zip/master"
+					}
+				]
+			}
+		}
+	]
+}
